@@ -17,7 +17,7 @@
 2.	Untuk server, buka file /etc/hosts menggunakan perintah sudo nano /etc/hosts
 3.	Tambahkan IP Master dan Slave/worker ke dalam file /etc/hosts, lalu simpan file dan keluar dari file dengan ctrl+x
 
-    ![image]()
+    ![image](https://web.whatsapp.com/a98deb4f-68b2-4663-b4a8-37f4f85755c9)
   	
 4.	Untuk worker/slave, sama seperti master buka file /etc/hosts kemudian masukkan cukup masukkan IP dari master dan worker pemegang file
    
