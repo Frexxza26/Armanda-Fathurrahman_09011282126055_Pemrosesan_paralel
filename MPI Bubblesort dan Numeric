@@ -15,7 +15,7 @@
     | IP      | 192.168.102.170  |  192.168.102.215  |  192.168.102.95  |  192.168.102.236  |
 
 2.	Untuk server, buka file /etc/hosts menggunakan perintah sudo nano /etc/hosts
-3.	Di dalam file /etc/hosts tambahkan IP master dan Slave/worker,kemudian save file dan keluar dari file dengan ctrl+x
+3.	Tambahkan IP Master dan Slave/worker ke dalam file /etc/hosts, lalu simpan file dan keluar dari file dengan ctrl+x
 
     ![image]()
   	
