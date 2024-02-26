@@ -1,5 +1,5 @@
 # Armanda Fathurrahman_09011282126055_Pemrosesan-pararel
-# Tugas MPI
+# Bubble Sort and Numeric Using OpenMPI
 
 ## • Sebelum Pengerjaan
 1.	Memastikan bahwa setiap PC/Laptop dalam satu jaringan yang sama 
